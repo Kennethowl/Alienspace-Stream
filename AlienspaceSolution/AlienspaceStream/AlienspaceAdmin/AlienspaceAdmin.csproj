@@ -195,6 +195,7 @@
     <Content Include="Views\OrdenDetalle\Crear.cshtml" />
     <Content Include="Views\Ordenes\Editar.cshtml" />
     <Content Include="Views\OrdenDetalle\Eliminar.cshtml" />
+    <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
