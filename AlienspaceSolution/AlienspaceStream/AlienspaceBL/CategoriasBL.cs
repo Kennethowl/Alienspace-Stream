@@ -22,7 +22,9 @@ namespace AlienspaceBL
         {
             // contexto_global.Peliculas.ToList();
 
-            ListadeCategorias = contexto_global.Categorias.ToList();
+            ListadeCategorias = contexto_global.Categorias
+                .OrderBy(c => c.Pelicula)
+                .ToList();
 
             return ListadeCategorias; //ListaPeliculas;
         }

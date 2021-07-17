@@ -83,6 +83,14 @@ namespace AlienspaceBL
             return peliculas;
         }
 
+        /*public Peliculas ObtenerPeliculasActivas(int id)
+        {
+            var peliculas = contexto_global.Peliculas.Include("Categoria")
+                .Where(p => p.Activo == true).FirstOrDefault(p => p.Id == id);
+
+            return peliculas;
+        }*/
+
         public void EliminarPeliculas(int id)
         {
             var peliculas = contexto_global.Peliculas.Find(id);

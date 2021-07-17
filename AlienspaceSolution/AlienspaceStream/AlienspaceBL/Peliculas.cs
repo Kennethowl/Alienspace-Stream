@@ -9,6 +9,11 @@ namespace AlienspaceBL
 {
    public class Peliculas
     {
+       /* public Peliculas()
+        {
+            Activo = true;
+        }*/
+
         public int Id { get; set; }
 
         [Display(Name ="Pelicula")]
@@ -24,5 +29,6 @@ namespace AlienspaceBL
         [Display(Name ="Imagen")]
         public string UrlImagen { get; set;  }
         //public int CategoriaId { get; set; }
+        //public bool Activo { get; set; }
     }
 }

@@ -19,8 +19,20 @@ namespace AlienspaceBL
 
         public List<Cliente> ObtenerClientes()
         {
+            ListadeClientes = _contexto.Cliente
+                .OrderBy(c => c.Nombre)
+                .ToList();
 
-           ListadeClientes =  _contexto.Cliente.ToList();
+            //ListadePeliculas = contexto_global.Peliculas.Include("Categoria").ToList();
+            return ListadeClientes; //ListaPeliculas;
+        }
+
+        public List<Cliente> ObtenerClientesActivos()
+        {
+            ListadeClientes = _contexto.Cliente
+                .Where(c => c.Activo == true)
+                .OrderBy(c => c.Nombre)
+                .ToList();
 
             //ListadePeliculas = contexto_global.Peliculas.Include("Categoria").ToList();
             return ListadeClientes; //ListaPeliculas;
