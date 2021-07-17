@@ -1,0 +1,41 @@
+﻿@model AlienspaceBL.Peliculas
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Peliculas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pelicula)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pelicula)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria.Pelicula)
+        </dd>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.UrlImagen)
+        </dd>
+        <dd>
+            <img src="@Model.UrlImagen" alt="@Model.Pelicula" style="width:200px; height:auto;" />
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

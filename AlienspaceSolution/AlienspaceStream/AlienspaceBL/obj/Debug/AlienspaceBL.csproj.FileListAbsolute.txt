@@ -1,0 +1,70 @@
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll.config
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\AlienspaceBL.pdb
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceBL\obj\Debug\AlienspaceBL.pdb

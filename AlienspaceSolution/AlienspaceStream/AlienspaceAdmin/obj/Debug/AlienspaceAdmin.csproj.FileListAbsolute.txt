@@ -1,0 +1,468 @@
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\m7}2\Desktop\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\m7}2\Desktop\L4\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\m7}2\Desktop\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\m7}2\Downloads\L4 - copia\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\m7}2\Downloads\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\L4 14-07-21\L4 - copia\repos\Alienspace Stream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\AlienspaceAdmin.dll.config
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\AlienspaceAdmin.pdb
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\AlienspaceBL.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\EntityFramework.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\AlienspaceBL.pdb
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\EntityFramework.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\AlienspaceAdmin\obj\Debug\AlienspaceAdmin.pdb
