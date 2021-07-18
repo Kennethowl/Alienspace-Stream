@@ -13,3 +13,19 @@ C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\Alienspace.Win\obj\
 C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\Alienspace.Win\obj\Debug\Alienspace.Win.pdb
 C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\Alienspace.Win\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\USER\Desktop\L4\alienspace stream\Alienspace Stream\Alienspace.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\Alienspace.Win.exe.config
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\Alienspace.Win.exe
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\Alienspace.Win.pdb
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\AlienspaceBL.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\AlienspaceBL.pdb
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.Form1.resources
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.Form2.resources
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.Properties.Resources.resources
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.exe
+C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace.Win\obj\Debug\Alienspace.Win.pdb
