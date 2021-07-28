@@ -67,23 +67,6 @@ C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\A
 C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Alienspace stream.dll
 C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Alienspace stream.pdb
 C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\AlienspaceBL.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\EntityFramework.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\EntityFramework.SqlServer.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.AI.Web.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.ApplicationInsights.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\System.Web.Helpers.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\System.Web.Mvc.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\System.Web.Razor.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\System.Web.Webpages.Deployment.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\System.Web.Webpages.dll
-C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\System.Web.Webpages.Razor.dll
 C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\AlienspaceBL.pdb
 C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\EntityFramework.xml
 C:\Users\USER\Desktop\L4\Alienspace Stream\AlienspaceSolution\AlienspaceStream\Alienspace stream\bin\EntityFramework.SqlServer.xml

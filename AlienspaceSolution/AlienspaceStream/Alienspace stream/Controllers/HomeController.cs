@@ -1,5 +1,7 @@
-﻿using System;
+﻿using AlienspaceBL;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -11,7 +13,12 @@ namespace Alienspace_stream.Controllers
         // GET: AlienspaceStream
         public ActionResult Index()
         {
-            return View();
+            var peliculasBL = new PeliculasBL();
+            var listaPeliculas = peliculasBL.ObtenerPeliculas();
+
+            ViewBag.adminWebSiteUrl = ConfigurationManager.AppSettings["adminWebSiteUrl"];
+
+            return View(listaPeliculas);     
         }
     }
 }

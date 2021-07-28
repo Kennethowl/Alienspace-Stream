@@ -70,6 +70,9 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -78,6 +81,9 @@
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\Alienspace.Win.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\Alienspace.Win.Form2.resources" />
+    <EmbeddedResource Include="obj\Debug\Alienspace.Win.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -87,6 +93,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="bin\Debug\Alienspace.Win.exe.config" />
+    <None Include="bin\Debug\Alienspace.Win.vshost.exe.config" />
+    <None Include="bin\Debug\Alienspace.Win.vshost.exe.manifest" />
+    <None Include="obj\Debug\Alienspace.Win.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\Alienspace.Win.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="packages.config" />
     <None Include="Properties\DataSources\AlienspaceBL.PeliculasBL.datasource" />
     <None Include="Properties\DataSources\AlienspaceBL.ReportesPeliculasBL.datasource" />
@@ -108,6 +121,25 @@
       <Project>{4ce78aeb-6db7-4dbd-81c9-27c6aa24a518}</Project>
       <Name>AlienspaceBL</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Alienspace.Win.exe" />
+    <Content Include="bin\Debug\Alienspace.Win.pdb" />
+    <Content Include="bin\Debug\Alienspace.Win.vshost.exe" />
+    <Content Include="bin\Debug\AlienspaceBL.dll" />
+    <Content Include="bin\Debug\AlienspaceBL.pdb" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="obj\Debug\Alienspace.Win.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Alienspace.Win.exe" />
+    <Content Include="obj\Debug\Alienspace.Win.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

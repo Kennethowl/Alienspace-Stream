@@ -1,22 +1,31 @@
-﻿
+﻿@model List<AlienspaceBL.Peliculas>
 @{
     ViewBag.Title = "Index";
 }
 
-<h2>Welcome to Alienspace Stream</h2>
+<h2>CARTELRA CINEMATOGRAFICA</h2>
 
-<body>
-    <main>
-        <div class="pelicula-principal">
-            <div class="contenedor">
-                <h3 class="titulo">Al Filo del Mañana</h3>
-                <p class="descripcion">
-                    William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra, entra en un bucle temporal en el cual revive constantemente y vuelve a intentar salvar el planeta, mejorando sus habilidades, conociendo mejor al enemigo, y acercándose cada vez más a la victoria. Sin embargo, el tiempo corre en su contra.
-                </p>
-                <button role="button" class="boton"><i class="fas fa-play"></i>Play Movie</button>
-                <button role="button" class="boton"><i class="fas fa-info-circle"></i>More Information</button>
-            </div>
-        </div>
-    </main>
-</body>   
-<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th><strong>Codigo</strong></th>
+                <th><strong>Descripcion</strong></th>
+                <th><strong>Categoria</strong></th>
+                <th><strong>Poster</strong></th>
+            </tr>
+        </thead>
+        @foreach(var peliculas in Model.OrderBy(o => o.Pelicula))
+        {
+            <tr>
+                <td>@peliculas.Id</td>
+                <td>@peliculas.Pelicula</td>
+                <td>@peliculas.Categoria.Pelicula</td> 
+                <td><img src="@(ViewBag.adminWebSiteUrl + peliculas.UrlImagen)" alt="Alternate Text" /></td>
+            </tr>
+        }
+    </table>
+
+
+
+
