@@ -3,29 +3,36 @@
     ViewBag.Title = "Index";
 }
 
-<h2>CARTELRA CINEMATOGRAFICA</h2>
+<link href="~/CSS/styles.css" rel="stylesheet" />
 
+<h1 class="cartelera">Anime</h1>
 
-    <table class="table table-striped table-hover">
-        <thead>
-            <tr>
-                <th><strong>Codigo</strong></th>
-                <th><strong>Descripcion</strong></th>
-                <th><strong>Categoria</strong></th>
-                <th><strong>Poster</strong></th>
-            </tr>
-        </thead>
-        @foreach(var peliculas in Model.OrderBy(o => o.Pelicula))
-        {
-            <tr>
-                <td>@peliculas.Id</td>
-                <td>@peliculas.Pelicula</td>
-                <td>@peliculas.Categoria.Pelicula</td> 
-                <td><img src="@(ViewBag.adminWebSiteUrl + peliculas.UrlImagen)" alt="Alternate Text" /></td>
-            </tr>
-        }
-    </table>
+@foreach (var peliculas in Model.Where(o => o.Categoria.Pelicula == "Anime"))
+{
+    <div class="contenedor">
+        <div class="item">
+            <img src="@(ViewBag.adminWebSiteUrl + peliculas.UrlImagen)" alt="" class="images">
+            <div class="text">
+                <h3 class="titulo">@peliculas.Pelicula</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, optio. Laboriosam, facilis nesciunt quos officia cum tempore sequi animi aliquam provident quaerat, corporis id saepe! Quidem porro modi tempora sint!</p>
+                <h3 class="titulo">@peliculas.Categoria.Pelicula</h3>
+            </div>
+        </div>
+    </div>
+}
 
-
-
-
+<h1 class="cartelera">Terror</h1>
+    
+@foreach (var peliculas in Model.Where(o => o.Categoria.Pelicula == "Terror"))
+{
+    <div class="contenedor">
+        <div class="item">
+            <img src="@(ViewBag.adminWebSiteUrl + peliculas.UrlImagen)" alt="" class="images">
+            <div class="text">
+                <h3 class="titulo">@peliculas.Pelicula</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, optio. Laboriosam, facilis nesciunt quos officia cum tempore sequi animi aliquam provident quaerat, corporis id saepe! Quidem porro modi tempora sint!</p>
+                <h3 class="titulo">@peliculas.Categoria.Pelicula</h3>
+            </div>
+        </div>
+    </div>
+}

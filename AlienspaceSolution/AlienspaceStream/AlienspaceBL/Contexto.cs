@@ -18,7 +18,8 @@ namespace AlienspaceBL
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>(); 
+            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
+            Database.SetInitializer(new DatosdeInicio()); //agregar datos de inicio al momento de crear la base de datos
         }
 
         public DbSet <Peliculas> Peliculas { get; set; }
@@ -27,6 +28,8 @@ namespace AlienspaceBL
         public DbSet<Orden> Ordenes { get; set; }
         public DbSet<OrdenDetalle> OrdenDetalle { get; set; }
         public DbSet<Cliente> Cliente { get;  set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+
     }
 }
 

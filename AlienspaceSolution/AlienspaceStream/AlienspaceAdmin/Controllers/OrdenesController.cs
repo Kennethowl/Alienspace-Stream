@@ -7,7 +7,8 @@ using System.Web.Mvc;
 
 namespace AlienspaceBL.WebAdmin.Controllers
 {
-    
+    [Authorize]
+
     public class OrdenesController : Controller
     {
         OrdenesBL _ordenesBL;

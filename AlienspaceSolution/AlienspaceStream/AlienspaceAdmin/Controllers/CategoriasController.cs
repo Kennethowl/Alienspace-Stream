@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace AlienspaceAdmin.Controllers
 {
+    [Authorize]
     public class CategoriasController : Controller
     {
         CategoriasBL _CategoriasBL;

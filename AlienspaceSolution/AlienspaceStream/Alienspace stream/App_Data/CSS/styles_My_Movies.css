@@ -1,0 +1,28 @@
+.gallery {
+    margin: 20px 20px;
+    box-shadow: 0 4px 8px 0 lemonchiffon 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    float: left;
+    width: 400px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.gallery:hover {
+    border: 1px solid cadetblue;
+    transform: rotate(-3deg);
+}
+
+.footer_photo {
+    text-align: center;
+    color: floralwhite;
+    padding: 10px;
+   /*text-shadow: 2px 2px 5px cadetblue;*/
+}
+
+body {
+    /*background-color: var(--fondo);*/
+    font-family: 'Oswald', sans-serif;
+}
