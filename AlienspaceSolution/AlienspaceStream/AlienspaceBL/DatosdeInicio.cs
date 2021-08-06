@@ -17,6 +17,30 @@ namespace AlienspaceBL
 
             contexto.Usuarios.Add(nuevoUsuario);
 
+            var nuevoUsuario1 = new Usuario();
+            nuevoUsuario1.Nombre = "helen";
+            nuevoUsuario1.Contrasena = Encriptar.CodificarContrasena("2020");
+
+            contexto.Usuarios.Add(nuevoUsuario1);
+
+            var nuevoUsuario2 = new Usuario();
+            nuevoUsuario2.Nombre = "kenneth";
+            nuevoUsuario2.Contrasena = Encriptar.CodificarContrasena("2021");
+
+            contexto.Usuarios.Add(nuevoUsuario2);
+
+            var nuevoUsuario3 = new Usuario();
+            nuevoUsuario3.Nombre = "emilio";
+            nuevoUsuario3.Contrasena = Encriptar.CodificarContrasena("2022");
+
+            contexto.Usuarios.Add(nuevoUsuario3);
+
+            var nuevoUsuario4 = new Usuario();
+            nuevoUsuario4.Nombre = "josue";
+            nuevoUsuario4.Contrasena = Encriptar.CodificarContrasena("2023");
+
+            contexto.Usuarios.Add(nuevoUsuario4);
+
             base.Seed(contexto);
         }
     }
