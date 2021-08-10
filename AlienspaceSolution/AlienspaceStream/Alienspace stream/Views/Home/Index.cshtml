@@ -36,3 +36,19 @@
         </div>
     </div>
 }
+
+<h1 class="cartelera">Terror</h1>
+
+@foreach (var peliculas in Model.Where(o => o.Categoria.Pelicula == "Accion"))
+{
+    <div class="contenedor">
+        <div class="item">
+            <img src="@(ViewBag.adminWebSiteUrl + peliculas.UrlImagen)" alt="" class="images">
+            <div class="text">
+                <h3 class="titulo">@peliculas.Pelicula</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, optio. Laboriosam, facilis nesciunt quos officia cum tempore sequi animi aliquam provident quaerat, corporis id saepe! Quidem porro modi tempora sint!</p>
+                <h3 class="titulo">@peliculas.Categoria.Pelicula</h3>
+            </div>
+        </div>
+    </div>
+}
